@@ -1,0 +1,1 @@
+from .py_zaif_websocket import ZaifWebsocket
